@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="230" viewBox="0 0 320 230" role="img" aria-label="Step 2: engine slow ahead with the wheel turned toward the pier; stern swings away while the bow rests on a fender."><style>
+:root{
+  --bg:#EEF2F3; --surface:#FFFFFF; --ink:#13232B; --ink-soft:#4A5D66; --rule:#C9D4D8;
+  --accent:#0B6A78; --cmd-bg:#DDE9ED;
+  --water:#D3E5EC; --pier:#B7B1A6; --bank:#BCD0B1; --bridge:#8F9AA0; --pillar:#5F686D;
+  --hull:#FFFFFF; --hull-stroke:#13232B; --deck:#D5DEE2; --motor:#13232B;
+  --port:#C62F36; --stbd:#1C8A4A; --rope:#A06A14; --fender:#1F3F57; --current:#2A78A0;
+  --warn:#9A5B00; --warn-bg:#FBEFD9;
+}
+@media (prefers-color-scheme: dark){:root{
+  
+  --bg:#0D171C; --surface:#13222A; --ink:#DCE7EA; --ink-soft:#97A9B1; --rule:#26363E;
+  --accent:#4CC0CF; --cmd-bg:#18303A;
+  --water:#12303B; --pier:#4E4A43; --bank:#243A29; --bridge:#3A474E; --pillar:#8A959B;
+  --hull:#E6ECEE; --hull-stroke:#0D171C; --deck:#9FB0B7; --motor:#05090B;
+  --port:#F0636A; --stbd:#3FC47A; --rope:#E0A64A; --fender:#8FB3CC; --current:#6FB9DE;
+  --warn:#F2B75B; --warn-bg:#2A2214;
+}}
+.lbl{fill:var(--ink);font:600 13px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+.sm{fill:var(--ink-soft);font:600 11.5px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+.rp{fill:var(--rope);font:700 12px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+.pt{fill:var(--port);font:700 13px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+.sb{fill:var(--stbd);font:700 13px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+.ac{fill:var(--accent);font:700 13px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+text{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+</style><defs>
+    <symbol id="boat" viewBox="0 0 40 112" overflow="visible">
+      <path d="M20 0 C33 16 40 36 40 58 L40 96 Q40 100 36 100 L4 100 Q0 100 0 96 L0 58 C0 36 7 16 20 0 Z" style="fill:var(--hull);stroke:var(--hull-stroke);stroke-width:1.5"/>
+      <rect x="8" y="46" width="24" height="24" rx="3" style="fill:var(--deck);stroke:var(--hull-stroke);stroke-width:1"/>
+      <rect x="15" y="100" width="10" height="11" rx="2" style="fill:var(--motor)"/>
+      <circle cx="9" cy="24" r="3.2" style="fill:var(--port)"/>
+      <circle cx="31" cy="24" r="3.2" style="fill:var(--stbd)"/>
+    </symbol>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" style="fill:var(--accent)"/>
+    </marker>
+    <marker id="arrc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" style="fill:var(--current)"/>
+    </marker>
+    <marker id="arri" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" style="fill:var(--ink-soft)"/>
+    </marker>
+  </defs><rect width="320" height="230" style="fill:var(--water)"/>
+          <rect x="0" y="172" width="320" height="58" style="fill:var(--pier)"/>
+          <line x1="0" y1="172" x2="320" y2="172" style="stroke:var(--hull-stroke)" stroke-width="1.5"/>
+          <g opacity=".18" transform="translate(160,146) rotate(90) translate(-20,-56)"><use href="#boat" width="40" height="112"/></g>
+          <path d="M201 152 L140 182" style="stroke:var(--rope)" stroke-width="2.4" fill="none"/>
+          <circle cx="140" cy="182" r="5" style="fill:var(--hull-stroke)"/>
+          <ellipse cx="214" cy="168" rx="7" ry="4" style="fill:var(--fender)"/>
+          <g transform="translate(163,130) rotate(120) translate(-20,-56)"><use href="#boat" width="40" height="112"/></g>
+          <path d="M126 122 Q100 110 100 80" style="stroke:var(--accent)" stroke-width="2.4" fill="none" marker-end="url(#arr)"/>
+          <text class="ac" x="92" y="70" text-anchor="middle">Heck schwenkt ab</text>
+          <text class="sm" x="236" y="160">Bug am Fender</text>
+          <text class="rp" x="140" y="204" text-anchor="middle">Vorspring auf Zug</text>
+        </svg>
