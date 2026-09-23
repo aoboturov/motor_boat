@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="190" viewBox="0 0 260 190"><style>
+:root{
+  --bg:#EEF2F3; --surface:#FFFFFF; --ink:#13232B; --ink-soft:#4A5D66; --rule:#C9D4D8;
+  --accent:#0B6A78; --cmd-bg:#DDE9ED;
+  --water:#D3E5EC; --pier:#B7B1A6; --bank:#BCD0B1; --bridge:#8F9AA0; --pillar:#5F686D;
+  --hull:#FFFFFF; --hull-stroke:#13232B; --deck:#D5DEE2; --motor:#13232B;
+  --port:#C62F36; --stbd:#1C8A4A; --rope:#A06A14; --fender:#1F3F57; --current:#2A78A0;
+  --warn:#9A5B00; --warn-bg:#FBEFD9;
+}
+@media (prefers-color-scheme: dark){:root{
+  
+  --bg:#0D171C; --surface:#13222A; --ink:#DCE7EA; --ink-soft:#97A9B1; --rule:#26363E;
+  --accent:#4CC0CF; --cmd-bg:#18303A;
+  --water:#12303B; --pier:#4E4A43; --bank:#243A29; --bridge:#3A474E; --pillar:#8A959B;
+  --hull:#E6ECEE; --hull-stroke:#0D171C; --deck:#9FB0B7; --motor:#05090B;
+  --port:#F0636A; --stbd:#3FC47A; --rope:#E0A64A; --fender:#8FB3CC; --current:#6FB9DE;
+  --warn:#F2B75B; --warn-bg:#2A2214;
+}}
+.lbl{fill:var(--ink);font:600 13px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+.sm{fill:var(--ink-soft);font:600 11.5px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+.rp{fill:var(--rope);font:700 12px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+.pt{fill:var(--port);font:700 13px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+.sb{fill:var(--stbd);font:700 13px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+.ac{fill:var(--accent);font:700 13px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+text{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+</style><defs><marker id="ra" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="3.2" markerHeight="3.2" orient="auto"><path d="M0 0 L10 5 L0 10 z" style="fill:var(--rope)"/></marker></defs><rect width="260" height="190" style="fill:var(--water)"/><path d="M 18 176 C 70 164, 130 140, 160 124 C 172 118, 172 62, 158 58 L 104 58 C 90 60, 90 120, 104 122 L 150 124" style="fill:none;stroke:var(--water);stroke-width:11;stroke-linecap:round;stroke-linejoin:round"/><path d="M 18 176 C 70 164, 130 140, 160 124 C 172 118, 172 62, 158 58 L 104 58 C 90 60, 90 120, 104 122 L 150 124" style="fill:none;stroke:var(--rope);stroke-width:5.5;stroke-linecap:round;stroke-linejoin:round"/><rect x="112" y="64" width="36" height="52" rx="4" style="fill:var(--pillar);opacity:.55"/><rect x="34" y="79" width="192" height="22" rx="11" style="fill:var(--pillar);stroke:var(--hull-stroke);stroke-width:1.2"/><path d="M 150 124 C 158 124, 152 112, 140 106 L 60 70 C 40 62, 22 74, 24 90 C 26 106, 42 114, 60 110 L 200 70 C 218 62, 236 74, 236 90 C 236 106, 220 114, 200 110" style="fill:none;stroke:var(--water);stroke-width:11;stroke-linecap:round;stroke-linejoin:round"/><path d="M 150 124 C 158 124, 152 112, 140 106 L 60 70 C 40 62, 22 74, 24 90 C 26 106, 42 114, 60 110 L 200 70 C 218 62, 236 74, 236 90 C 236 106, 220 114, 200 110" style="fill:none;stroke:var(--rope);stroke-width:5.5;stroke-linecap:round;stroke-linejoin:round"/><path d="M 66 74 C 40 60, 14 78, 20 96 C 26 112, 50 110, 72 96 L 124 80" style="fill:none;stroke:var(--water);stroke-width:11;stroke-linecap:round;stroke-linejoin:round"/><path d="M 66 74 C 40 60, 14 78, 20 96 C 26 112, 50 110, 72 96 L 124 80" style="fill:none;stroke:var(--rope);stroke-width:5.5;stroke-linecap:round;stroke-linejoin:round" marker-end="url(#ra)"/><path d="M 200 110 L 66 74" style="fill:none;stroke:var(--water);stroke-width:11;stroke-linecap:round;stroke-linejoin:round"/><path d="M 200 110 L 66 74" style="fill:none;stroke:var(--rope);stroke-width:5.5;stroke-linecap:round;stroke-linejoin:round"/><text class="lbl" x="130" y="24" text-anchor="middle">Kopfschlag (verkehrt herum)</text><text class="sm" x="30" y="184" text-anchor="start">← zur Last (Boot)</text></svg>

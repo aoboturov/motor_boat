@@ -1,12 +1,13 @@
 # Ablegen & Aufstoppen am Brückenpfeiler
 
-Study notes for two practical maneuvers from the German boat license exam (Sportbootführerschein). They cover **casting off from a pier** and **stopping and holding the boat in front of a bridge pillar**, with top-down diagrams and the German your instructor will actually shout.
+Study notes for two practical maneuvers from the German boat license exam (Sportbootführerschein). They cover **casting off from a pier** and **stopping and holding the boat in front of a bridge pillar**, with top-down diagrams, the exam knots, and the German your instructor will actually shout.
 
 The notes assume the usual training boat: one outboard or sterndrive engine and a steering wheel.
 
 - [Das Boot an der Pier](#das-boot-an-der-pier)
 - [Manöver 1 · Ablegen](#manöver-1--ablegen-eindampfen-in-die-vorspring)
 - [Manöver 2 · Brückenpfeiler](#manöver-2--aufstoppen-vor-dem-brückenpfeiler)
+- [Knoten: exam knots](#knoten--die-prüfungsknoten)
 - [Wortschatz: what the instructor says](#wortschatz--was-der-ausbilder-sagt)
 
 ---
@@ -96,6 +97,136 @@ Current flows from the bridge toward you, so you approach upstream (*stromauf*, 
 - Staying in neutral too long while holding. The current turns the bow and you lose steering.
 - Watching only the pillar. The distance to the pillar hardly changes at first, so use the mark beside you to judge whether you're moving.
 - Big wheel movements. At this speed small corrections are enough.
+
+---
+
+## Knoten · Die Prüfungsknoten
+
+In the practical exam the examiner names a knot and you tie it, usually without looking at a picture and within a few seconds. These are the knots normally asked for in the SBF exam. Check the exact list with your school, because it can vary a little.
+
+Every knot description uses the same rope terms:
+
+| Deutsch | English | Meaning |
+|---|---|---|
+| **loser Part / Ende** | working end | the free end you move while tying |
+| **fester / stehender Part** | standing part | the long part of the rope under load |
+| **Auge** | eye / loop | a closed loop in the rope |
+| **Bucht** | bight | a U-shaped fold in the rope |
+| **Törn / Schlag** | turn / hitch | one wrap around something |
+
+### Übersicht
+
+| Knoten | English | What for | Tutorial |
+|---|---|---|---|
+| **Achtknoten** | figure-eight knot | stopper at the end of a line | [animated](https://www.animatedknots.com/figure-8-knot) |
+| **Kreuzknoten** | reef / square knot | joining two ends of the **same** thickness | [animated](https://www.animatedknots.com/square-knot) |
+| **Schotstek** (einfach) | sheet bend | joining two lines of **different** thickness | [animated](https://www.animatedknots.com/sheet-bend-knot) |
+| **Doppelter Schotstek** | double sheet bend | same, more secure / slippery lines | [animated](https://www.animatedknots.com/sheet-bend-knot) (shows the extra turn) |
+| **Palstek** | bowline | a fixed loop that won't slip, e.g. over a bollard | [animated](https://www.animatedknots.com/bowline-knot) |
+| **Webeleinstek** | clove hitch | quick fastening to a post or ring, fenders on the rail | [animated](https://www.animatedknots.com/clove-hitch-knot) |
+| **Rundtörn mit zwei halben Schlägen** | round turn & two half hitches | tying to a ring or post under load | [animated](https://www.animatedknots.com/round-turn-two-half-hitches-knot) |
+| **Klampe belegen** | cleat hitch | making a mooring line fast on a cleat | [animated](https://www.animatedknots.com/cleat-hitch-knot-dock-line) |
+
+### Achtknoten: figure-eight knot
+
+A stopper knot, so the line can't run out through a fairlead or cleat.
+
+1. Make a loop by laying the working end **over** the standing part.
+2. Take the end **around behind** the standing part.
+3. Put the end **down through the loop** from the front.
+4. Pull tight. The knot shows a clear "8".
+
+**Check:** you can see an 8. If it's just a lump, you tied an overhand knot (*Überhandknoten*).
+
+### Kreuzknoten: reef knot
+
+Joins two ends of the same rope thickness. It's not safe under heavy load or with different thicknesses.
+
+1. **Right over left** and tuck under (like the first step of tying shoes).
+2. **Left over right** and tuck under.
+3. Pull tight.
+
+**Memory aid:** *„Rechts über links, links über rechts.“*
+**Check:** each end lies on the same side as its own standing part, so the knot looks flat and symmetrical. If the ends come out diagonally, you tied a granny knot (*Altweiberknoten*). That one slips, and the examiner will reject it.
+
+### Schotstek: sheet bend (single & double)
+
+Joins two lines, even of different thickness.
+
+1. Form a **bight** (*Bucht*) in the **thicker** line and hold it.
+2. Push the end of the **thinner** line **up through the bight** from below.
+3. Take it **around behind both legs** of the bight.
+4. Tuck it **under itself**, across the bight, not through it.
+5. Pull tight. Both short ends must come out on the **same side**.
+
+**Doppelter Schotstek:** after step 3, go around the bight **a second time**, then tuck under itself as in step 4. It holds better on smooth or wet lines.
+
+### Palstek: bowline
+
+The most important sailor's knot. It makes a loop that doesn't slip or tighten and is easy to untie after load.
+
+1. Make a small loop in the standing part, with the working end side **on top**. This is "the pond".
+2. Bring the end **up through the loop** from below ("the rabbit comes out of its hole").
+3. Take it **around behind the standing part** ("around the tree").
+4. Take it **back down through the small loop** ("back into the hole").
+5. Hold the end and the side of the big loop together, then pull the standing part to tighten.
+
+**Memory aid (German schools use it too):** *„Der Hase kommt aus dem Loch, läuft um den Baum und springt zurück ins Loch.“*
+**Check:** the end finishes **inside** the big loop. If it's outside, you tied a left-hand bowline, which examiners may not accept.
+
+### Webeleinstek: clove hitch
+
+A quick hitch around a post, a rail or a ring. It's good for hanging fenders, but it can slip on its own under changing load.
+
+1. Take the end **around the post**.
+2. **Cross over** the standing part and take a second turn around the post.
+3. Tuck the end **under that second turn**, so it comes out between the two turns.
+4. Pull tight. From the front you see an **X**, with both ends coming out in opposite directions from under it.
+
+**Variant *auf Slip*:** tuck a bight in step 3 instead of the end. Then one pull releases it. This is common for fenders.
+
+### Rundtörn mit zwei halben Schlägen: round turn & two half hitches
+
+A secure way to tie to a ring, bollard or pillar, even when the line is already under load.
+
+1. Take **two full turns** around the ring/post. This is the *Rundtörn*, and it takes the load.
+2. Take the end **around the standing part** and back through, which makes the first half hitch.
+3. Do it again **in the same direction** for the second half hitch.
+4. Slide both hitches snug against the round turn.
+
+**Check:** the two half hitches together look like a clove hitch around the standing part.
+
+### Klampe belegen: cleat hitch
+
+This is how every mooring line is made fast on the boat or on the pier. In the maneuver above, this is what happens when *„Vorspring fest!“* is called.
+
+| | | |
+|---|---|---|
+| ![Round turn](diagrams/06-klampe-1-rundtoern.svg) | ![Figure eights](diagrams/07-klampe-2-achterschlaege.svg) | ![Locking hitch](diagrams/08-klampe-3-kopfschlag.svg) |
+| **1 · Rundtörn**<br>Lead the line to the **far horn** first, then take a full turn around the base of the cleat. | **2 · Kreuzschläge**<br>Go diagonally over the top and under the other horn, then diagonally back. One or two figure-eights are enough. | **3 · Kopfschlag**<br>Make a loop with a twist so the end tucks **under** itself, and drop it over the horn. The end lies parallel to the last diagonal. |
+
+**Rules:**
+- **Start with the round turn.** Then you can hold a boat under load with one hand while you finish.
+- **Only one *Kopfschlag*** at the end. More hitches jam the line so you can't release it quickly.
+- **The line must come off quickly.** The examiner may ask you to release it right away.
+
+### Aufschießen: coiling a line
+
+After casting off, the instructor will say *„Leine aufschießen!“*. That means coil it neatly in loops (clockwise for normal laid rope) and secure the coil so it's ready to throw. A line lying loose on deck is a trip hazard and fails the tidiness check.
+
+### Knoten-Vokabeln
+
+| Deutsch | Aussprache | English |
+|---|---|---|
+| Knoten / Stek | KNO-ten / shtek | knot / hitch or bend |
+| Mach einen Palstek! | makh I-nen PAL-shtek | Tie a bowline! |
+| Leg die Leine auf die Klampe. | layk dee LY-neh owf dee KLAM-peh | Make the line fast on the cleat. |
+| Belegen! / Fest! | be-LAY-gen / fest | Make fast! / Tied! |
+| Loswerfen! | LOHS-ver-fen | Cast off (throw the line off)! |
+| auf Slip | owf slip | slipped (quick-release) |
+| dichtholen / fieren | DIKHT-ho-len / FEE-ren | haul in / ease out a line |
+| Leine aufschießen | LY-neh OWF-shee-sen | coil the line |
+| Das hält nicht. | das helt nikht | That won't hold. |
 
 ---
 
